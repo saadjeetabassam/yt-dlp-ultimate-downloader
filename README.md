@@ -1,2 +1,2 @@
-# yt-dlp-ui-ultimate-downloader
+# yt-dlp-ui Ultimate Video Downloader
 Ultimate Video Downloader based on YT-DLP
