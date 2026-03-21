@@ -1,5 +1,5 @@
 # THE BEST YT-DLP UI
-## Ultimate Video Downloader
+# Ultimate Video Downloader
 
 Ultimate Video Downloader is the only UI you’ll ever need for yt‑dlp.
 Built for faster downloads, full control, and a clean user experience, this project transforms yt‑dlp into a powerful yet simple tool anyone can use.
