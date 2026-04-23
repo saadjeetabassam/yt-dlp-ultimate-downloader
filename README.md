@@ -1,10 +1,6 @@
 # THE BEST YT-DLP UI
 ## Ultimate Video Downloader
-
-![Downloads](https://img.shields.io/github/downloads/saadjeetabassam/yt-dlp-ultimate-downloader/total)
-
-<p align="center">
-  <img src="https://img.shields.io/github/downloads/saadjeetabassam/yt-dlp-ultimate-downloader/total?style=for-the-badge&label=Total%20Downloads" width="400">
+<img src="https://img.shields.io/github/downloads/saadjeetabassam/yt-dlp-ultimate-downloader/total?style=for-the-badge&label=Total%20Downloads" width="400">
 </p>
 
 Ultimate Video Downloader is the only UI you’ll ever need for yt‑dlp.
