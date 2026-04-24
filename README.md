@@ -20,7 +20,7 @@ This is the ultimate and best UI for yt‑dlp.
 No more complicated commands, no more clutter — just faster downloads, full control, and one simple interface.
 If you want to work with yt‑dlp, this is the only solution you’ll ever need.
 
-<img width="1920" height="1080" alt="A" src="https://github.com/user-attachments/assets/9fa0c26c-63d2-4f53-a783-bdce9bd08cf3" />
-<img width="1920" height="1080" alt="B" src="https://github.com/user-attachments/assets/53860235-67c0-4602-99fd-2553ecbe6a4d" />
-<img width="1920" height="1080" alt="C" src="https://github.com/user-attachments/assets/b73cdff7-5a85-4226-8243-85be284707c6" />
-<img width="1920" height="1080" alt="D" src="https://github.com/user-attachments/assets/d9696a90-73e6-4efe-8ded-2970236434cd" />
+<img width="1920" height="1080" alt="AA" src="https://github.com/user-attachments/assets/0fa41762-3205-418c-a0dc-ee7ff99d4e1f" />
+<img width="1920" height="1080" alt="BB" src="https://github.com/user-attachments/assets/d02b68da-ef29-4333-98e5-63e7e75c5a6b" />
+<img width="1920" height="1080" alt="CC" src="https://github.com/user-attachments/assets/55ea22ff-d7bc-4dbe-a293-c5ed0cee0659" />
+<img width="1920" height="1080" alt="DD" src="https://github.com/user-attachments/assets/f0c932bb-d162-47fd-815e-f3609d5be3c6" />
