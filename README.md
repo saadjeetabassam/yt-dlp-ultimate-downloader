@@ -3,8 +3,6 @@
 
 <img src="https://img.shields.io/github/downloads/saadjeetabassam/yt-dlp-ultimate-downloader/total?style=for-the-badge&label=Total%20Downloads" width="400">
 
-<img src="https://img.shields.io/github/downloads/saadjeetabassam/yt-dlp-ultimate-downloader/total?style=for-the-badge&label=Total%20Downloads&cacheSeconds=60" width="400">
-
 Ultimate Video Downloader is the only UI you’ll ever need for yt‑dlp.
 Built for faster downloads, full control, and a clean user experience, this project transforms yt‑dlp into a powerful yet simple tool anyone can use.
 Whether you’re a beginner or an advanced user, this is the ultimate solution for yt‑dlp — combining speed, reliability, and ease of use in one package.
